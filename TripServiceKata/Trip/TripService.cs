@@ -29,7 +29,9 @@ namespace TripServiceKata.Trip
             }
             else
             {
-                throw new UserNotLoggedInException();
+                //throw new UserNotLoggedInException;
+                return null;
+                // excpetions should not be in Code Logic
             }
         }
     }

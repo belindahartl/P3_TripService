@@ -22,5 +22,22 @@ namespace TripServiceKata.Tests
             Assert.Empty(listFriends);
             Assert.IsType<List<User.User>>(listFriends);
         }
+        [Fact]
+        public void TestLogin()
+        {
+            //ARRANGE
+            var user1 = new User.User();
+            UserSession.GetInstance().IsUserLoggedIn(user1);
+            user1.AddFriend(new User.User());
+            var user2 = new User.User();
+            var tripServce = new TripService();
+            
+            //ACT
+            var result = tripServce.GetTripsByUser(user2);
+
+            //
+            Assert.Null(result);
+
+        }
     }
 }
