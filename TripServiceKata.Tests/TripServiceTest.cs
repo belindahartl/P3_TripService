@@ -35,8 +35,8 @@ namespace TripServiceKata.Tests
             //ACT
             var result = tripServce.GetTripsByUser(user2);
 
-            //
-            Assert.Empty(result);
+            //ASSERT
+            Assert.Null(result);
 
         }
     }

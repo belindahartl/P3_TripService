@@ -8,7 +8,7 @@ namespace TripServiceKata.Trip
     {
         public List<Trip> GetTripsByUser(User.User user)
         {
-            List<Trip> tripList = new List<Trip>();
+            //List<Trip> tripList = new List<Trip>(); -> braucht man nicht mehr
             User.User loggedUser = UserSession.GetInstance().GetLoggedUser();
             bool isFriend = false;
             if (loggedUser != null)
@@ -23,9 +23,12 @@ namespace TripServiceKata.Trip
                 }
                 if (isFriend)
                 {
-                    tripList = TripDAO.FindTripsByUser(user);
+                    //tripList = TripDAO.FindTripsByUser(user); direkt returnen
+                    return TripDAO.FindTripsByUser(user);
+
                 }
-                return tripList;
+                //return tripList; auf null setzen, wenn is not friend
+                return null;
             }
             else
             {
