@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripServiceKata.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73db6745aa3fabc431e61ea65bd8e2b04c079b77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91638d2e1310a1dac15e3ad4f176728ea85a497d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripServiceKata.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripServiceKata.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

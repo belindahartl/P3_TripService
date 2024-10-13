@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Xml.Serialization;
 using TripServiceKata.Trip;
 using TripServiceKata.User;
 using Xunit;
@@ -58,5 +59,18 @@ namespace TripServiceKata.Tests
             Assert.IsType<List<Trip.Trip>>(result);
         }
         
+        [Fact]
+        public void TestAddFriend()
+        {  
+            //ARRANGE
+            var user1 = new User.User();
+
+            //ACT
+            user1.AddFriend(new User.User());
+
+            //ASSERT
+            Assert.Single(user1.GetFriends()); //single = Liste ist 1 lang
+        
+        }
     }
 }
