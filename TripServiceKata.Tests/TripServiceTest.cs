@@ -72,5 +72,20 @@ namespace TripServiceKata.Tests
             Assert.Single(user1.GetFriends()); //single = Liste ist 1 lang
         
         }
+        [Fact]
+        public void TestAddTrip()
+        {
+            //ARRANGE
+            var user1 = new User.User();
+
+            //ACT
+            user1.AddTrip(new Trip.Trip());
+
+            //ASSERT
+            Assert.Single(user1.Trips()); 
+
+        }
+
     }
+
 }
