@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TripServiceKata.Tests
+build_property.ProjectDir = D:\BelindaFH\TDD\P3_TripService\TripServiceKata.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
