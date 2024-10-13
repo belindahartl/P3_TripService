@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\BelindaFH\\TDD\\P3_TripService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4BBC231-76A6-4C1D-A16D-3B223616D1F6}|TripServiceKata.Tests\\TripServiceKata.Tests.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata.tests\\tripservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4BBC231-76A6-4C1D-A16D-3B223616D1F6}|TripServiceKata.Tests\\TripServiceKata.Tests.csproj|solutionrelative:tripservicekata.tests\\tripservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\trip\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\trip\\tripdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\trip\\tripdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\user\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\user\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\exception\\dependendclasscallduringunittestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\exception\\dependendclasscallduringunittestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\trip\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\exception\\dependendclasscallduringunittestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|solutionrelative:tripservicekata\\exception\\dependendclasscallduringunittestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0205A6E4-28D8-467F-A052-7B1ECEA83F0D}|TripServiceKata\\TripServiceKata.csproj|d:\\belindafh\\tdd\\p3_tripservice\\tripservicekata\\exception\\usernotloggedinexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "TripDAO.cs",
+              "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\TripDAO.cs",
+              "RelativeDocumentMoniker": "TripServiceKata\\Trip\\TripDAO.cs",
+              "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\TripDAO.cs",
+              "RelativeToolTip": "TripServiceKata\\Trip\\TripDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:25:06.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\User\\User.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\User\\User.cs",
@@ -67,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Trip.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\Trip.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\Trip\\Trip.cs",
               "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\Trip.cs",
               "RelativeToolTip": "TripServiceKata\\Trip\\Trip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:25:06.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DependendClassCallDuringUnitTestException.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Exception\\DependendClassCallDuringUnitTestException.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\Exception\\DependendClassCallDuringUnitTestException.cs",
@@ -93,46 +110,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TripServiceTest.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata.Tests\\TripServiceTest.cs",
               "RelativeDocumentMoniker": "TripServiceKata.Tests\\TripServiceTest.cs",
-              "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata.Tests\\TripServiceTest.cs*",
-              "RelativeToolTip": "TripServiceKata.Tests\\TripServiceTest.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata.Tests\\TripServiceTest.cs",
+              "RelativeToolTip": "TripServiceKata.Tests\\TripServiceTest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:25:21.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TripService.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\TripService.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\Trip\\TripService.cs",
-              "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\TripService.cs*",
-              "RelativeToolTip": "TripServiceKata\\Trip\\TripService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Trip\\TripService.cs",
+              "RelativeToolTip": "TripServiceKata\\Trip\\TripService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:25:10.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserSession.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\User\\UserSession.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\User\\UserSession.cs",
               "ToolTip": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\User\\UserSession.cs",
               "RelativeToolTip": "TripServiceKata\\User\\UserSession.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:25:02.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserNotLoggedInException.cs",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\Exception\\UserNotLoggedInException.cs",
               "RelativeDocumentMoniker": "TripServiceKata\\Exception\\UserNotLoggedInException.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TripServiceKata.Tests",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata.Tests\\TripServiceKata.Tests.csproj",
               "RelativeDocumentMoniker": "TripServiceKata.Tests\\TripServiceKata.Tests.csproj",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TripServiceKata",
               "DocumentMoniker": "D:\\BelindaFH\\TDD\\P3_TripService\\TripServiceKata\\TripServiceKata.csproj",
               "RelativeDocumentMoniker": "TripServiceKata\\TripServiceKata.csproj",
