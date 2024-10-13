@@ -23,11 +23,11 @@ namespace TripServiceKata.Tests
             Assert.IsType<List<User.User>>(listFriends);
         }
         [Fact]
-        public void TestLogin()
+        public void TestUserIsFriend()
         {
             //ARRANGE
             var user1 = new User.User();
-            UserSession.GetInstance().IsUserLoggedIn(user1);
+            UserSession.GetInstance().SetLoginUser(user1);
             user1.AddFriend(new User.User());
             var user2 = new User.User();
             var tripServce = new TripService();
@@ -36,7 +36,7 @@ namespace TripServiceKata.Tests
             var result = tripServce.GetTripsByUser(user2);
 
             //
-            Assert.Null(result);
+            Assert.Empty(result);
 
         }
     }
