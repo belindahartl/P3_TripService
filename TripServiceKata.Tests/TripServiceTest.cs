@@ -47,7 +47,7 @@ namespace TripServiceKata.Tests
             var user1 = new User.User();
             UserSession.GetInstance().SetLoginUser(user1);
             var user2 = new User.User();
-            user1.AddFriend(user2);
+            user2.AddFriend(user1);
             var tripService = new TripService();
 
             //ACT
@@ -57,5 +57,6 @@ namespace TripServiceKata.Tests
             Assert.NotNull(result);
             Assert.IsType<List<Trip.Trip>>(result);
         }
+        
     }
 }
